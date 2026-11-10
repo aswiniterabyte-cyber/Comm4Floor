@@ -1,0 +1,6 @@
+{
+  "name": "Commercial Building 3D BIM Visualizer",
+  "description": "Architecturally accurate 3D BIM visualization, dimensional validation, elevation renders, and CAD viewer for multi-story commercial building based on authoritative floor plans.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
